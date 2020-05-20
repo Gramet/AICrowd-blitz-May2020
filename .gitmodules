@@ -1,0 +1,15 @@
+[submodule "PKHND"]
+	path = PKHND
+	url = git@github.com:Gramet/poker-hand-values.git
+[submodule "DIBRD"]
+	path = DIBRD
+	url = git@github.com:Gramet/DIBRD.git
+[submodule "MINILEAVES"]
+	path = MINILEAVES
+	url = git@github.com:Gramet/MiniLeaves.git
+[submodule "ORIENTME"]
+	path = ORIENTME
+	url = git@github.com:Gramet/OrientMe.git
+[submodule "FOODC"]
+	path = FOODC
+	url = git@github.com:Gramet/FoodC.git
